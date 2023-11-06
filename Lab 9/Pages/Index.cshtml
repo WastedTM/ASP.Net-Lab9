@@ -1,0 +1,38 @@
+﻿@page
+@model Lab_9.Pages.Product
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Lab9</title>
+</head>
+<body>
+<div>
+    <h1>Products</h1>
+        <table border="1px" >
+            <thead>
+                <tr border="1px">
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model.Products)
+                {
+                    <tr>
+                        <td>@product.ID</td>
+                        <td>@product.Name</td>
+                        <td>@product.Price</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+</div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+D:\all .net project\Lab 9\Lab 9\bin\Debug\net7.0\appsettings.Development.json
+D:\all .net project\Lab 9\Lab 9\bin\Debug\net7.0\appsettings.json
+D:\all .net project\Lab 9\Lab 9\bin\Debug\net7.0\Lab 9.exe
+D:\all .net project\Lab 9\Lab 9\bin\Debug\net7.0\Lab 9.deps.json
+D:\all .net project\Lab 9\Lab 9\bin\Debug\net7.0\Lab 9.runtimeconfig.json
+D:\all .net project\Lab 9\Lab 9\bin\Debug\net7.0\Lab 9.dll
+D:\all .net project\Lab 9\Lab 9\bin\Debug\net7.0\Lab 9.pdb
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.csproj.AssemblyReference.cache
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.AssemblyInfoInputs.cache
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.AssemblyInfo.cs
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.csproj.CoreCompileInputs.cache
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.MvcApplicationPartsAssemblyInfo.cache
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.RazorAssemblyInfo.cache
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.RazorAssemblyInfo.cs
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\staticwebassets\msbuild.Lab 9.Microsoft.AspNetCore.StaticWebAssets.props
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\staticwebassets\msbuild.build.Lab 9.props
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Lab 9.props
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Lab 9.props
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\staticwebassets.pack.json
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\staticwebassets.build.json
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\staticwebassets.development.json
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\scopedcss\bundle\Lab 9.styles.css
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.dll
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\refint\Lab 9.dll
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.pdb
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.genruntimeconfig.cache
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\ref\Lab 9.dll
+D:\all .net project\Lab 9\Lab 9\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\all .net project\Lab 9\Lab 9\obj\Debug\net7.0\Lab 9.csproj.CopyComplete
